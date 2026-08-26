@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "services": "Services",
+    "process": "Process",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "why": "Why SOMY",
+    "contact": "Contact",
+    "blog": "Blog",
+    "signIn": "Sign In"
+  },
+  "hero": {
+    "title1": "3 Platforms.",
+    "title2": "1 Team.",
+    "subtitle": "SOMY designs and builds software across web, mobile, and desktop — a tight-knit team of four delivering full-stack products without the corporate overhead.",
+    "cta": "Start a project"
+  },
+  "services": {
+    "title": "What We Build",
+    "subtitle": "Three pillars of expertise, one collaborative team delivering end-to-end.",
+    "web": { "title": "Web", "desc": "Full-stack web applications, SPAs, and progressive web apps built with modern frameworks and cloud-native architecture." },
+    "mobile": { "title": "Mobile", "desc": "Cross-platform and native mobile apps for iOS and Android, from concept to App Store launch." },
+    "desktop": { "title": "Desktop", "desc": "High-performance desktop applications using Electron, Tauri, or native technologies for Windows, Mac, and Linux." }
+  },
+  "process": {
+    "title": "Our Process",
+    "subtitle": "A clear path from idea to production, with no surprises.",
+    "steps": [
+      { "title": "Discover", "desc": "We listen, understand your goals, and map the technical landscape." },
+      { "title": "Design", "desc": "Wireframes, prototypes, and a visual language before a single line of code." },
+      { "title": "Build", "desc": "Iterative sprints with working software every two weeks." },
+      { "title": "Ship", "desc": "Deploy, monitor, and hand over a production-ready product." },
+      { "title": "Support", "desc": "Ongoing maintenance, feature iterations, and priority response." }
+    ]
+  },
+  "portfolio": {
+    "title": "Our Work",
+    "subtitle": "Real projects, real results. Here's a selection of what we've built.",
+    "viewProject": "View Project",
+    "techUsed": "Tech Stack",
+    "client": "Client"
+  },
+  "testimonials": {
+    "title": "What Clients Say",
+    "subtitle": "Don't take our word for it — hear from the teams we've worked with."
+  },
+  "pricing": {
+    "title": "How We Price",
+    "subtitle": "Transparent pricing with no hidden fees. Pick the model that fits your project.",
+    "monthly": "Starting from",
+    "cta": "Get a Quote",
+    "plans": [
+      {
+        "name": "Project-Based",
+        "desc": "Fixed scope, fixed price. We agree on deliverables and timeline upfront.",
+        "price": "Custom",
+        "period": "per project",
+        "features": ["Fixed scope & timeline", "Milestone-based payments", "Full ownership on delivery", "Post-launch support included"]
+      },
+      {
+        "name": "Time & Materials",
+        "desc": "Pay for actual hours worked. Ideal for evolving requirements.",
+        "price": "$85",
+        "period": "per hour",
+        "features": ["Flexible scope", "Weekly time reports", "Pause or adjust anytime", "Direct Slack access to devs"],
+        "highlight": true
+      },
+      {
+        "name": "Retainer",
+        "desc": "Dedicated hours each month for ongoing development and support.",
+        "price": "$4,000",
+        "period": "per month",
+        "features": ["40 hours/month guaranteed", "Priority response time", "Monthly strategy call", "Rolling unused hours"]
+      }
+    ]
+  },
+  "why": {
+    "title": "Why SOMY",
+    "items": [
+      { "title": "Small Team, Big Delivery", "desc": "Four founders, not layers of management. You talk to the people actually building your product." },
+      { "title": "Full-Stack Range", "desc": "Web, mobile, desktop — we pick the right platform and build across all three when needed." },
+      { "title": "No Corporate Overhead", "desc": "Lean processes, fast decisions, transparent pricing. Your budget goes to engineering, not overhead." },
+      { "title": "Direct Access", "desc": "Slack channels, weekly check-ins, and real-time demos. No account managers or ticket queues." }
+    ]
+  },
+  "contact": {
+    "title": "Start a Project",
+    "subtitle": "Tell us about your idea and we'll get back to you within 24 hours.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message Sent",
+    "successMsg": "We'll be in touch soon. Thank you!",
+    "placeholder": {
+      "name": "Your name",
+      "email": "you@company.com",
+      "message": "Tell us about your project..."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Thoughts on engineering, product, and building software.",
+    "readMore": "Read More",
+    "backToBlog": "← Back to Blog",
+    "by": "by",
+    "minRead": "min read"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page not found",
+    "desc": "The page you're looking for doesn't exist or has been moved.",
+    "back": "Back to Home"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "services": "Services",
+    "process": "Processus",
+    "portfolio": "Portfolio",
+    "pricing": "Tarifs",
+    "why": "Pourquoi SOMY",
+    "contact": "Contact",
+    "blog": "Blog",
+    "signIn": "Connexion"
+  },
+  "hero": {
+    "title1": "3 Plateformes.",
+    "title2": "1 Équipe.",
+    "subtitle": "SOMY conçoit et développe des logiciels pour le web, le mobile et le bureau — une équipe de quatre personnes livrant des produits full-stack sans overhead corporatif.",
+    "cta": "Démarrer un projet"
+  },
+  "services": {
+    "title": "Ce que nous construisons",
+    "subtitle": "Trois piliers d'expertise, une équipe collaborative livrant de bout en bout.",
+    "web": { "title": "Web", "desc": "Applications web full-stack, SPA et PWA construites avec des frameworks modernes et une architecture cloud-native." },
+    "mobile": { "title": "Mobile", "desc": "Applications mobiles multiplateformes et natives pour iOS et Android, du concept au App Store." },
+    "desktop": { "title": "Bureau", "desc": "Applications bureau performantes avec Electron, Tauri ou des technologies natives pour Windows, Mac et Linux." }
+  },
+  "process": {
+    "title": "Notre processus",
+    "subtitle": "Un chemin clair de l'idée à la production, sans mauvaises surprises.",
+    "steps": [
+      { "title": "Découvrir", "desc": "Nous écoutons, comprenons vos objectifs et cartographions le paysage technique." },
+      { "title": "Concevoir", "desc": "Wireframes, prototypes et langage visuel avant une seule ligne de code." },
+      { "title": "Développer", "desc": "Sprints itératifs avec du logiciel fonctionnel toutes les deux semaines." },
+      { "title": "Livrer", "desc": "Déploiement, surveillance et remise d'un produit prêt pour la production." },
+      { "title": "Support", "desc": "Maintenance continue, itérations de fonctionnalités et réponse prioritaire." }
+    ]
+  },
+  "portfolio": {
+    "title": "Nos réalisations",
+    "subtitle": "Projets réels, résultats réels. Voici une sélection de ce que nous avons construit.",
+    "viewProject": "Voir le projet",
+    "techUsed": "Stack technique",
+    "client": "Client"
+  },
+  "testimonials": {
+    "title": "Ce que disent nos clients",
+    "subtitle": "Ne nous croyez pas sur parole — écoutez les équipes avec lesquelles nous avons travaillé."
+  },
+  "pricing": {
+    "title": "Nos tarifs",
+    "subtitle": "Prix transparents sans frais cachés. Choisissez le modèle adapté à votre projet.",
+    "monthly": "À partir de",
+    "cta": "Obtenir un devis",
+    "plans": [
+      {
+        "name": "Projet forfaitaire",
+        "desc": "Périmètre fixe, prix fixe. Nous convenons des livrables et du calendrier à l'avance.",
+        "price": "Sur devis",
+        "period": "par projet",
+        "features": ["Périmètre et calendrier fixes", "Paiements par jalons", "Propriété totale à la livraison", "Support post-lancement inclus"]
+      },
+      {
+        "name": "Temps & Matériaux",
+        "desc": "Payez pour les heures réellement travaillées. Idéal pour des besoins évolutifs.",
+        "price": "85€",
+        "period": "par heure",
+        "features": ["Périmètre flexible", "Rapports hebdomadaires", "Pause ou ajustement à tout moment", "Accès direct aux devs via Slack"],
+        "highlight": true
+      },
+      {
+        "name": "Retainer mensuel",
+        "desc": "Heures dédiées chaque mois pour le développement continu et le support.",
+        "price": "4 000€",
+        "period": "par mois",
+        "features": ["40 heures/mois garanties", "Temps de réponse prioritaire", "Appel stratégique mensuel", "Heures non utilisées cumulables"]
+      }
+    ]
+  },
+  "why": {
+    "title": "Pourquoi SOMY",
+    "items": [
+      { "title": "Petite équipe, grosse livraison", "desc": "Quatre associés, pas de couches managériales. Vous parlez aux personnes qui construisent réellement votre produit." },
+      { "title": "Plage full-stack", "desc": "Web, mobile, bureau — nous choisissons la bonne plateforme et construisons sur les trois si nécessaire." },
+      { "title": "Sans overhead corporatif", "desc": "Processus agiles, décisions rapides, prix transparents. Votre budget va à l'ingénierie, pas aux frais généraux." },
+      { "title": "Accès direct", "desc": "Canaux Slack, réunions hebdomadaires et démos en temps réel. Pas de chefs de compte ni de files d'attente." }
+    ]
+  },
+  "contact": {
+    "title": "Démarrer un projet",
+    "subtitle": "Parlez-nous de votre idée et nous vous répondrons dans les 24 heures.",
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi...",
+    "success": "Message envoyé",
+    "successMsg": "Nous vous contacterons bientôt. Merci !",
+    "placeholder": {
+      "name": "Votre nom",
+      "email": "vous@entreprise.com",
+      "message": "Parlez-nous de votre projet..."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Réflexions sur l'ingénierie, les produits et la construction de logiciels.",
+    "readMore": "Lire la suite",
+    "backToBlog": "← Retour au blog",
+    "by": "par",
+    "minRead": "min de lecture"
+  },
+  "footer": {
+    "copyright": "Tous droits réservés."
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page non trouvée",
+    "desc": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "back": "Retour à l'accueil"
+  }
+}
